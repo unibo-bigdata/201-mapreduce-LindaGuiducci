@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BD-201-mapreduce.main" target="1.7" />
+      <module name="BD-201-mapreduce.test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
